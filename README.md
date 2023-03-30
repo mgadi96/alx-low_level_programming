@@ -1,1 +1,1 @@
-# alx-low_level_programming.git
+# alx-low_level_programming
